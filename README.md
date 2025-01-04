@@ -3,6 +3,6 @@
 </p>
 
 <p align="center">
-  ![hello](https://github.com/user-attachments/assets/6d6a3e96-c156-487d-a024-28d9e6a51767)
+  ![hello](hello.jpg)
 </p>
 <h1 align="center">Hello world! 👋</h1>
