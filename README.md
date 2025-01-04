@@ -3,6 +3,6 @@
 </p>
 
 <p align="center">
-  ![hello](hello.jpg)
+  [![hello](hello.jpg)]
 </p>
 <h1 align="center">Hello world! 👋</h1>
